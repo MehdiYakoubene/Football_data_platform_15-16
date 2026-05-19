@@ -37,16 +37,24 @@ Une cellule performance peut suivre les joueurs et equipes via des indicateurs s
 **Scouting joueur**  
 Une cellule recrutement peut comparer les joueurs par famille de poste grace aux per90, aux percentiles, au radar joueur, aux key passes, a l'xG assisted et aux actions dans la surface.
 
-## Apercu visuel
+## Aperçu visuel
 
+### Home
+![Home](docs/screenshots/home.png)
 
-- Home : [docs/screenshots/home.png](docs/screenshots/home.png)
-- Match Dashboard : [docs/screenshots/match_dashboard.png](docs/screenshots/match_dashboard.png)
-[docs/screenshots/match_dashboard.png](docs/screenshots/match_dashboard2.png)
-- Team Dashboard : [docs/screenshots/team_dashboard.png](docs/screenshots/team_dashboard.png)
-- Player Dashboard : [docs/screenshots/player_dashboard.png](docs/screenshots/player_dashboard.png)
-[docs/screenshots/player_dashboard.png](docs/screenshots/player_dashboard2.png)
-- Data Quality : [docs/screenshots/data_quality.png](docs/screenshots/data_quality.png)
+### Match Dashboard
+![Match Dashboard](docs/screenshots/match_dashboard.png)
+![Match Dashboard v2](docs/screenshots/match_dashboard2.png)
+
+### Team Dashboard
+![Team Dashboard](docs/screenshots/team_dashboard.png)
+
+### Player Dashboard
+![Player Dashboard](docs/screenshots/player_dashboard.png)
+![Player Dashboard v2](docs/screenshots/player_dashboard2.png)
+
+### Data Quality
+![Data Quality](docs/screenshots/data_quality.png)
 
 
 ## Perimetre des donnees
